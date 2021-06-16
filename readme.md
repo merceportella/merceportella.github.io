@@ -86,8 +86,8 @@ Este  proyecto es interesante porque a parte de intentar utilizar, todas las her
 - Juego: algunos problemas que he tenido con el juego, me han surgido con el bloque de elegir el vehiculo, ya que como lo tenía pensado hacer la principio, tenía que crear muchos botones y escenas iguales. Para solucionarlo, pensé en hacer el juego en 2 bloques, y así, si se escogía mal en el primero, ya pierdes; con esto, igualmente he tenido que crear bastantes botones, pero menos de la mitad de los que pensaba, al igual que en las escenas.
 - Video: los videos utilizados, estan exportados del programa de Procreate, que son las grabaciones del proceso de diseño de personajes. Para incuirlos en el juego, he utilizado la herramienta de video, como se nos enseñó en clase.
 - Instrucciones y ayuda al usuario: para poder llegar al segundo bloque, tienes que elegir las opciones correctas en el primero, las cuales son una sola vestimenta y un solo vehiculo, con todos los demás, pierdes. La opción correcta, es bastante obvia, en la vestimenta; pero en los vehiculos si que puede haber un poco más de confusión.
-- Menús y elementos de navegación (botones)
-- etc.
+- Menús y elementos de navegación (botones): El primer menú que encontramos es para empezar el juego, ver los extras, que son los videos de creación de personajes, o los creditos; en este menú, hay un botón de un altavoz, para reproducir la música, y al lado izquiero, un slider para establecer el volumen de la música. En los extras, hay otro botón, "Reproducir", para llegar a la pantalla donde aparecen todos los vídeos. Ya en el juego, después de la introducción, hay 3 botones para elegir la aventura; en esta, a la hora de elegir vestuario, hay 3 botones, para vestir a la modelo, y después la modelo, para confirmar. En los botones de vehiculos, al seleccionar uno, ya llegas a la proxima pantalla. En la última pantalla, hay botones de 2 opciones, para contestar a la pregunta que se encuentra abajo.
+
 
 
 
