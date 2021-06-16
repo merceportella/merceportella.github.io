@@ -100,6 +100,7 @@ Creo que en el apartado de preguntas, debería de haberlo resuelto de otra maner
 # 4. Conclusiones 
 
 (explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+Como conclusión, quiero destacar que hacer este proyecto, me ha resultado muy interesantem ya que es algo que nunca me había planteado hacer, y ha sido más comlplicado de lo que pensaba. Los problemas que he detectado, que se unen con las cosas que me gustaría mejorar, son a la hora de programar; es decir, mi idea inicial, ha ido variando un poco, según mis competencias, ya que siento que había muchas cosas, que desconozco, y si las hubiera sabido, puede que el uego me hubiera quedado más completo.
 
 
 
