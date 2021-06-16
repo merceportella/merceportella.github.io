@@ -42,9 +42,7 @@ El segundo bloque son 3 preguntas, que dependiendo de la opción que se escoja, 
 ### 2.2. Esquema de navegación 
 
 
-[Esquema!](https://github.com/merceportella/merceportella.github.io/blob/master/Esquema_Navegaci%C3%B3n_.jpg)
-
-
+![Esquema](https://github.com/merceportella/merceportella.github.io/blob/master/Esquemanavegacion_.jpg)
 
 
 
