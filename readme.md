@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+## La vida de Kadi
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -8,35 +8,25 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : La vida de Kadi
 
-**Web:**   (url github.io)
+**Web:**   merceportella.github.io
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Mercè Portella Orfila
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto se basa en un juego de historia, donde tienes que ir superando pruebass hasta llegar a las perguntas finales. En el, acompañamos a la protagonista durante un día, en el cual tiene reuniones, o citas con varias personas, y según la opción de aventura que escojas, tienes que elegir una opción u otra.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Novela y juego 
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Resolución:** 600x400px
 
-(insertar imágenes a resolucion de 100px alto)
+**Probado en:**    MS Edge
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
-
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
-
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 174KB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
-
-**Medios** (donde se tiene presencia relacionada):
-
-- Github:
-- Twitter
-- Instagram
+**Fecha** : 16/06/2021
 
 
 ![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
@@ -44,11 +34,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
-
-
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
-
+En este proyecto, empezamos con la opción de elegir entre 3 aventuras distintas, las cuales se basan en llegar a una cita con una persona. La primera opción es una entrevista de trabajo, la segunda es una cita con su pareja, y la tercera es una fiesta con una amiga. 
+En cada aventura hay 2 bloques: el primero es más o menos igual, ya que se basa en elegir la ropa, y el transporte para llegar a esa cita, variando en cada aventura. Si a la hora de escoger en eset bloque, antes de llegar al segundo, ya has perdido.
+El segundo bloque son 3 preguntas, que dependiendo de la opción que se escoja, pierdes o ganas.
 
 
 ### 2.2. Esquema de navegación 
@@ -71,22 +59,21 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
+**Investigación de campo** 
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+- Al enseñarnos los proyectos de alumnos annteriores, me inspiré en el estilo del juego "Be my Valentine" ( https://github.com/SandraDomz/sandradomz.github.io)- 
 
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto es interesante porque a parte de intentar utilizar, todas las herramientas que nos han enseñado en la asignatura, le he querido dar un toque más personal, y al mismo tiempo más complicado, que básicamente es que todo el proyecto lo he dibujado en digital, escepto con algunos textos y botones. Creo que eso es algo llamativo, ya que se demuestra el interés que tenía para realizarlo. También creo que es interesante, porque me he basado, en las preguntas finales, en cosas cotidianas, que pueden llegar a ser un poco incomodas. 
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a jovenes de 14 a 20 años.
 
 
 
