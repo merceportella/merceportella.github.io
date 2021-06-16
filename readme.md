@@ -83,9 +83,9 @@ Este  proyecto es interesante porque a parte de intentar utilizar, todas las her
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
+- Juego: algunos problemas que he tenido con el juego, me han surgido con el bloque de elegir el vehiculo, ya que como lo tenía pensado hacer la principio, tenía que crear muchos botones y escenas iguales. Para solucionarlo, pensé en hacer el juego en 2 bloques, y así, si se escogía mal en el primero, ya pierdes; con esto, igualmente he tenido que crear bastantes botones, pero menos de la mitad de los que pensaba, al igual que en las escenas.
+- Video: los videos utilizados, estan exportados del programa de Procreate, que son las grabaciones del proceso de diseño de personajes. Para incuirlos en el juego, he utilizado la herramienta de video, como se nos enseñó en clase.
+- Instrucciones y ayuda al usuario: para poder llegar al segundo bloque, tienes que elegir las opciones correctas en el primero, las cuales son una sola vestimenta y un solo vehiculo, con todos los demás, pierdes. La opción correcta, es bastante obvia, en la vestimenta; pero en los vehiculos si que puede haber un poco más de confusión.
 - Menús y elementos de navegación (botones)
 - etc.
 
@@ -93,7 +93,7 @@ Este  proyecto es interesante porque a parte de intentar utilizar, todas las her
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+Creo que en el apartado de preguntas, debería de haberlo resuelto de otra manera, ya que si te equivocas en una, ya vas a la pantalla de fin del juego.
 
 
 
@@ -109,25 +109,16 @@ Este  proyecto es interesante porque a parte de intentar utilizar, todas las her
 
 # 5 Referencias 
 
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
-
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica:  Broken - Patrick Patrikios (https://studio.youtube.com/channel/UCq-vSPYHA0GoxXyJxTSMJig/music)
+* Tipografía: LucidaConsole
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Procreate
 
 
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
-
-https://creativecommons.org/licenses/?lang=es
-
-Mayo 2020
+Junio 2021
